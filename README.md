@@ -3,10 +3,12 @@
 ![api](https://raw.githubusercontent.com/jaderpinheiro/githubexplore/master/Githubexplorer_app.jpg) 
 
 Se você quizer dar uma olhada  fique a vontade, é só usar o link. <a href="https://githubexpolorer.netlify.app/" target="_blanck" title="Githubexplorer" target="_blank">Link App</a>
+> Exemplo do formato que deve ser digitado na busca: **jaderpinheiro/barber-front-end** :v:
+
 
 
 # Sobre esse projeto
-<p>É uma aplicação que explora os repositórios dos usuários do Github usando sua api pública, também usei o netlify para fazer a integração.</p>
+<p>É uma aplicação que explora os repositórios dos usuários do Github usando sua api pública, **também usei o netlify para fazer a integração**.</p>
 
 # Por quê?
 Este projeto faz parte do meu portfólio pessoal, portanto, ficarei feliz se você puder me fornecer algum feedback sobre o projeto, código, estrutura ou qualquer coisa que você possa relatar.
@@ -26,7 +28,7 @@ Além disso, você pode usar este projeto como desejar, estudar, fazer melhorias
 # Instalação 
 
 Pré-requisitos
-Para executar este projeto no modo de desenvolvimento, você precisará de um ambiente básico para executar.
+>Para executar este projeto no modo de desenvolvimento, você precisará de um ambiente básico para executar.
 
 
 Instalando
@@ -46,10 +48,11 @@ $ yarn start
 
 
 # Contribuindo
-Você pode enviar quantos PR's deseja, ficarei feliz em analisá-los e aceitá-los! 
+:thumbsup: Você pode enviar quantos PR's deseja, ficarei feliz em analisá-los e aceitá-los! 
 
-Obrigado!
+Obrigado!:v:
 
+---
 Licença
 Este projeto está licenciado sob a licença MIT - consulte o arquivo LICENSE.md para obter detalhes.
 
