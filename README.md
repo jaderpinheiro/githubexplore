@@ -3,12 +3,12 @@
 ![api](https://raw.githubusercontent.com/jaderpinheiro/githubexplore/master/Githubexplorer_app.jpg) 
 
 Se você quizer dar uma olhada  fique a vontade, é só usar o link. <a href="https://githubexpolorer.netlify.app/" target="_blanck" title="Githubexplorer" target="_blank">Link App</a>
-> Exemplo do formato que deve ser digitado na busca: **jaderpinheiro/barber-front-end** :v:
+> Exemplo do formato que deve ser digitado na busca: **jaderpinheiro/barber-front-end** ( dono-do-repósitorio/repositório ) :v:
 
 
 
 # Sobre esse projeto
-<p>É uma aplicação que explora os repositórios dos usuários do Github usando sua api pública, **também usei o netlify para fazer a integração**.</p>
+<p>É uma aplicação que explora os repositórios dos usuários do Github usando sua api pública, **também usei o netlify para fazer a integração.**</p>
 
 # Por quê?
 Este projeto faz parte do meu portfólio pessoal, portanto, ficarei feliz se você puder me fornecer algum feedback sobre o projeto, código, estrutura ou qualquer coisa que você possa relatar.
