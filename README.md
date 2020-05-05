@@ -8,7 +8,7 @@ Se você quizer dar uma olhada  fique a vontade, é só usar o link. <a href="ht
 
 
 # Sobre esse projeto
-<p>É uma aplicação que explora os repositórios dos usuários do Github usando sua api pública, **também usei o netlify para fazer a integração.**</p>
+<p>É uma aplicação que explora os repositórios dos usuários do Github usando sua api pública, <i>também usei o netlify para fazer a integração.<i></p>
 
 # Por quê?
 Este projeto faz parte do meu portfólio pessoal, portanto, ficarei feliz se você puder me fornecer algum feedback sobre o projeto, código, estrutura ou qualquer coisa que você possa relatar.
