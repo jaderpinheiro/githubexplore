@@ -2,7 +2,8 @@
 
 ![api](https://raw.githubusercontent.com/jaderpinheiro/githubexplore/master/Githubexplorer_app.jpg) 
 
-Se você quizer dar uma olhada  fique a vontade, é só usar o link. <a href="https://githubexpolorer.netlify.app/" target="_blanck" title="Githubexplorer" target="_blank">Link App</a>
+Se você quizer dar uma olhada  fique a vontade, é só usar o link. <a href="https://githubexpolorer.netlify.app/" target="_blanck" title="Githubexplorer" target="_blank">Link App</a> :nerd_face:
+
 > Exemplo do formato que deve ser digitado na busca: **jaderpinheiro/barber-front-end** ( dono-do-repósitorio/repositório ) :v:
 
 
