@@ -12,11 +12,11 @@ Se você quizer dar uma olhada  fique a vontade, é só usar o link. <a href="ht
 <p>É uma aplicação que explora os repositórios dos usuários do Github usando sua api pública, <i>também usei o netlify para fazer a integração.<i></p>
 
 # Por quê?
-Este projeto faz parte do meu portfólio pessoal, portanto, ficarei feliz se você puder me fornecer algum feedback sobre o projeto, código, estrutura ou qualquer coisa que você possa relatar.
+<p>Este projeto faz parte do meu portfólio pessoal, portanto, ficarei feliz se você puder me fornecer algum feedback sobre o projeto, código, estrutura ou qualquer coisa que você possa relatar.</p>
 
 Para falar comigo <a href="https://br.linkedin.com/in/jader-borges-pinheiro-a0b68920" title="Jader Borges Pinheiro">Linkedin</a>
 
-Além disso, você pode usar este projeto como desejar, estudar, fazer melhorias.
+<p>Além disso, você pode usar este projeto como desejar, estudar, fazer melhorias.</p>
 
 É grátis!
 
@@ -54,6 +54,6 @@ $ yarn start
 Obrigado!:v:
 
 ---
-Licença
-Este projeto está licenciado sob a licença MIT - consulte o arquivo LICENSE.md para obter detalhes.
+<p>Licença
+Este projeto está licenciado sob a licença MIT - consulte o arquivo LICENSE.md para obter detalhes.</p>
 
